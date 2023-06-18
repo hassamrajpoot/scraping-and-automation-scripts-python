@@ -1,2 +1,2 @@
-# scraping-and-automation-examples-python
+# scraping-and-automation-scripts-python
 A list of example projects for scraping data and automating tasks
